@@ -8,5 +8,5 @@ Provide input parameters such as temperature, energy gap, and chemical potential
 Run alghoritm.
 
 # Results
-![Temperature dependence of energy gap](./images/delta.jpg)
-![Temperature dependence of chemical potential](./images/mu.jpg)
+Temperature dependence of energy gap and chemical potential
+![Temperature dependence of energy gap](./images/plots.jpg)
